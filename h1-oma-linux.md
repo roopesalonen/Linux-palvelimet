@@ -61,10 +61,10 @@ Kun pääsin summary kohtaan, niin install nappula ei mahtunut ruutuun. Jouduin 
 Kun asennus oli valmis, valitsin "Restart now" ja virtuaalikone käynnistyi uudelleen. Testasin vielä varmuuden vuoksi, että näppäimistö, internet yms. toimii oikein. Virtuaalikone on nyt valmis käyttöön.
 
 ## Lähteet
-T. Karvinen, 2024, Linux Palvelimet 2024 alkusyksy https://terokarvinen.com/linux-palvelimet/
+Karvinen, T. 2024. Linux Palvelimet 2024 alkusyksy https://terokarvinen.com/linux-palvelimet/
 
-T. Karvinen, 2023, Install Debian on Virtualbox https://terokarvinen.com/2021/install-debian-on-virtualbox/
+Karvinen, T. 2023. Install Debian on Virtualbox https://terokarvinen.com/2021/install-debian-on-virtualbox/
 
-T. Karvinen, 2006, Raportin kirjoittaminen https://terokarvinen.com/2006/raportin-kirjoittaminen-4/
+Karvinen, T. 2006. Raportin kirjoittaminen https://terokarvinen.com/2006/raportin-kirjoittaminen-4/
 
-Free Software Foundation, 2024, What is Free Software? https://www.gnu.org/philosophy/free-sw.html
+Free Software Foundation 2024. What is Free Software? https://www.gnu.org/philosophy/free-sw.html
