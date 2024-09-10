@@ -24,7 +24,7 @@
 - Web-sivun luonti normaalina käyttäjänä `mkdir -p /home/xubuntu/publicsites/pyora.example.com/` ja `echo pyora > /home/xubuntu/publicsites/pyora.example.com/index.html`
 
 ## a) Testaa, että weppipalvelimesi vastaa localhost-osoitteesta
-Kerkesin asentamaan Apachen jo viime luennolla ja muokkailemaan myös oletussivun sisältöä.
+Kerkesin asentamaan Apachen jo viime luennolla ja muokkailemaan myös oletussivun sisältöä
 
 Apachen voi asentaa komennolla `sudo apt-get -y install apache2`
 
