@@ -41,7 +41,7 @@ Avasin lokin komennolla `sudo tail /var/log/apache2/access.log`
 
 ![screenshot](https://i.imgur.com/QohgaYF.png)
 
-Ensimmäisenä localhost osoite eli `127.0.0.1`. 
+Ensimmäisenä localhost osoite eli `127.0.0.1`
 
 Seuraavaksi päivämäärä, kello ja aikavyöhyke `10/Sep/2024:14:28:24 +0300`
 
