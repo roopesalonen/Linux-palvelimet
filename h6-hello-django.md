@@ -220,7 +220,7 @@ Nyt admin sivu näyttää taas paremmalta
 ## Lähteet
 Karvinen, T. 2024. Linux Palvelimet 2024 alkusyksy https://terokarvinen.com/linux-palvelimet/
 
-Karvinenm T. 2022. Django 4 Instant Customer Database Tutorial https://terokarvinen.com/2022/django-instant-crm-tutorial/
+Karvinen T. 2022. Django 4 Instant Customer Database Tutorial https://terokarvinen.com/2022/django-instant-crm-tutorial/
 
 Karvinen, T. 2022. Deploy Django 4 - Production Install https://terokarvinen.com/2022/deploy-django/
 
